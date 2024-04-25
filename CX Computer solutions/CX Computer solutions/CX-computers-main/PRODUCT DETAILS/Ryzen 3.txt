@@ -1,0 +1,59 @@
+AMD RYZEN 3 3200GProcessors
+
+3 Years Warranty
+
+No retail box, tray processor
+
+# of CPU Cores
+4
+# of Threads
+4
+# of GPU Cores
+8
+Base Clock
+3.6GHz
+Max Boost Clock
+4GHz
+Total L1 Cache
+384KB
+Total L2 Cache
+2MB
+Total L3 Cache
+4MB
+Unlocked
+Yes
+CMOS
+12nm FinFET
+Package
+AM4
+PCI Express® Version
+PCIe 3.0 x8
+Thermal Solution
+Wraith Stealth
+Default TDP / TDP
+65W
+cTDP
+45-65W
+Max Temps
+95°C
+System Memory
+System Memory Specification
+2933MHz
+System Memory Type
+DDR4
+Memory Channels
+2
+Graphics Specifications
+Graphics Frequency
+1250 MHz
+Graphics Model
+Radeon™ Vega 8 Graphics
+Graphics Core Count
+8
+Key Features
+Display Port
+Yes
+HDMI™
+Yes 
+
+36,500 LKR

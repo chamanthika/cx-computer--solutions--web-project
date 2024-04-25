@@ -1,0 +1,307 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+/* The side navigation menu */
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #FFFFFF;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+/* Sidebar links */
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+/* Active/current link */
+.sidebar a.active {
+  background-color:#0E35C0;
+  color: white;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: absolute;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+
+.header {
+  z-index: 999;
+  position:fixed;
+  padding: 0px 360px;
+  background: #555;
+}
+
+nav{
+	flex:1;
+	text-align: right;
+}
+nav ul{
+	display: inline-block;
+	list-style-type: none;
+}
+nav ul li{
+	display: inline-block;
+	margin-right:30px;
+}
+a{
+	text-decoration: none;
+	color: #555;
+}
+p{
+	color: #555;
+}
+.container{
+	box-sizing: border-box;
+	max-width: 1400px;
+	max-height: 1000px;
+	margin: 10px;
+	padding-left:auto;
+	padding-right: Auto;
+}
+.row{
+	margin-top: 60px;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.col-2{
+	flex-basis: 50%;
+	min-width: 300px;
+}
+.col-2 img{
+	max-width: 100%;
+	padding:50px 0;
+}
+.col-2 h1{
+	font-size: 50px;
+	line-height: 60px;
+	margin: 25px 0;
+	transition: background 0.5s;
+}
+.btn:hover{
+	background: #563434;
+}
+.btn{
+	margin-top: 100px;
+	display: inline-block;
+	background: #ff523b;
+	color: #fff;
+	padding: 8px 30px;
+	
+	border-radius: 50px;
+	transition: background 0.5s;
+
+}
+.btn:hover{
+	background: #563434;
+}
+.header{
+	background:radial-gradient(#fff,#ffd6d6);
+}
+.head .row{
+	margin-top: 70px;
+}
+.categories{
+	margin:100px 0;
+}
+.col-3{
+	margin:10px;
+	flex-basis: 30%;
+	padding: 10px;
+	min-width: 150px;
+	margin-bottom:30px;
+	align-items: center;
+}
+.col-3 img{
+	margin: 40px;
+	width: 100%;
+}
+.col-3 :hover{
+	transform: translateY(-8px);
+}
+.small-container{
+	align-items: center;
+	padding-left: auto;
+	padding-right: auto;
+}
+.col-4{
+	margin:25px;
+	flex-basis: 25%;
+	padding: 10px;
+	min-width: 300px;
+	margin-bottom: 60px;
+	transition: transform 0.5s;
+}
+.col-4 img{
+	width: 100%;
+}
+.title{
+	text-align: center;
+	margin: 0 auto 80px;
+	position: relative;
+	line-height: 60px;
+	color: #555;
+}
+.title:after{
+	content: '';
+	background: #ff523b;
+	width: 80px;
+	height: 5px;
+	border-radius: 5px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
+h4{
+	color: #555;
+	font-weight: nomal;
+}
+.col-4 p{
+	font-size: 14px;
+}
+.col-4 img{
+	align-items: center;
+	width:200px;
+	margin:20px;
+}
+.rating.fa{
+	color: #ff523b;
+}
+.col-4:hover{
+	transform: translateY(-8px);
+	
+}
+.offer{
+	background: radial-gradient(#fff,#ffd6d6);
+	margin-top: 80px;
+	margin-left: auto;
+	padding: 30px 0;
+}
+.col-2 .offer-img{
+	padding: 50px;
+}
+small{
+	color: #555;
+}
+/*----brands----*/
+.brands{
+	
+	margin:100px auto;
+}
+.col-5{
+	margin: 25px 0;
+	cursor: pointer;
+	filter: grayscale(0);
+}
+.col-5 img:hover{
+	filter: grayscale(100%);
+}
+/*-----footer-----*/
+.footer{
+	background:black;
+	color:#8a8a8a;
+	font-size:14px;
+	padding:30px 0 20px;
+	margin-top:50px;
+}
+.footer p{
+	color:#8a8a8a;
+}
+.footer h3{
+	color: #fff;
+	margin-bottom:20px;
+}
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+	min-width: 250px;
+	margin-bottom: 20px;
+}
+.footer-col-1{
+	flex-basis: 30%;
+}
+.footer-col-2{
+	flex:1;
+	text-align: center;
+}
+.footer-col-2 img{
+	width: 180px;
+	margin-bottom: 20px;
+}
+.footer-col-3, .footer-col-4{
+	flex-basis: 12%;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+}
+.app-logo{
+	margin-top: 15px;
+}
+.app-logo img{
+	width:140px;
+}
+.footer hr{
+	border: none;
+	background : #b5b5b5;
+	height: 1px;
+	margin: 20px;
+}
+.copyright {
+	text-align:center;
+}
+.menu-icon{
+	width: 28px;
+	margin-left: 20px;
+}
+.add-cart{
+	align-items: flex-end;
+}
+
+/*--------media query for menu--------*/
+
+
+}
+
+	
+
+	

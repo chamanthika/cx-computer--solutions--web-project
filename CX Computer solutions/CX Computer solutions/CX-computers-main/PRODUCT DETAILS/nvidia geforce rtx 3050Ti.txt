@@ -1,0 +1,21 @@
+Codename - GN20-P1
+Architecture - Ampere
+Pipelines - 2560 - unified
+TMUs - 80
+ROPs - 32
+Raytracing Cores - 20
+Tensor / AI Cores - 80
+Core Speed : 1222 - 1485 (Boost) MHz
+Memory Speed : 12000 effective = 1500 MHz
+Memory Bus Width : 128 Bit
+Memory Type : GDDR6
+Max. Amount of Memory : 4 GB
+Shared Memory : no
+Memory Bandwidth : 195 GB/s
+API : DirectX 12_2, Shader 7.0, OpenGL 4.6
+Power Consumption : 60 Watt (35 - 80 Watt TGP)
+technology : 8 nm
+PCIe : 4.0
+Displays : HDMI 2.1, DisplayPort 1.4a
+Features : NVIDIA DLSS, NVIDIA Reflex, NVIDIA Broadcast, Resizable BAR, NVIDIA Ansel, NVIDIA FreeStyle, NVIDIA ShadowPlay®, NVIDIA G-SYNC®
+Notebook Size : large

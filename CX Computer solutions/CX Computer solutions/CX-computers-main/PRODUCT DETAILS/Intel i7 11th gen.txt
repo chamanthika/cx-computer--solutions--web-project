@@ -1,0 +1,139 @@
+INTEL® CORE™ I7-11700 PROCESSOR ( FOR PC BUILD ONLY )
+
+3 YEAR WARRANTY
+
+DESCRIPTION :
+CPU Specifications
+# of Cores
+8
+
+# of Threads
+16
+
+Processor Base Frequency
+2.50 GHz
+
+Max Turbo Frequency
+4.90 GHz
+
+Cache
+16 MB Intel® Smart Cache
+
+Bus Speed
+8 GT/s
+
+Intel® Turbo Boost Max Technology 3.0 Frequency ‡
+4.90 GHz
+
+Intel® Turbo Boost Technology 2.0 Frequency‡
+4.80 GHz
+
+TDP
+65 W
+
+Supplemental Information
+Embedded Options Available
+No
+
+Memory Specifications
+Max Memory Size (dependent on memory type)
+128 GB
+
+Memory Types
+DDR4-3200
+
+Max # of Memory Channels
+2
+
+Max Memory Bandwidth
+50 GB/s
+
+ECC Memory Supported ‡
+No
+
+Processor Graphics
+Processor Graphics ‡
+Intel® UHD Graphics 750
+
+Graphics Base Frequency
+350 MHz
+
+Graphics Max Dynamic Frequency
+1.30 GHz
+
+Graphics Video Max Memory
+64 GB
+
+Execution Units
+32
+
+4K Support
+Yes, at 60Hz
+
+Max Resolution (HDMI)‡
+4096x2160@60Hz
+
+Max Resolution (DP)‡
+5120 x 3200 @60Hz
+
+Max Resolution (eDP - Integrated Flat Panel)‡
+5120 x 3200 @60Hz
+
+DirectX* Support
+12.1
+
+OpenGL* Support
+4.5
+
+Intel® Quick Sync Video
+Yes
+
+Intel® InTru™ 3D Technology
+Yes
+
+Intel® Clear Video HD Technology
+Yes
+
+Intel® Clear Video Technology
+Yes
+
+# of Displays Supported ‡
+3
+
+Device ID
+0x4C8A
+
+OpenCL* Support
+3.0
+
+Expansion Options
+Scalability
+1S Only
+
+PCI Express Revision
+4.0
+
+PCI Express Configurations ‡
+Up to 1x16+1x4, 2x8+1x4, 1x8+3x4
+
+Max # of PCI Express Lanes
+20
+
+Package Specifications
+Sockets Supported
+FCLGA1200
+
+Max CPU Configuration
+1
+
+Thermal Solution Specification
+PCG 2019C
+
+TJUNCTION
+100°C
+
+Package Size
+37.5 mm x 37.5 mm
+0 Reviews For this Pro
+
+LKR 124,500.00

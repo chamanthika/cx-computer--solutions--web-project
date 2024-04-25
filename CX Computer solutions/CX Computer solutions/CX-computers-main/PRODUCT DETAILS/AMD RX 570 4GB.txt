@@ -1,0 +1,81 @@
+Graphics Processor
+GPU Name
+Polaris 20
+GPU Variant
+Polaris 20 XL
+(215-0910052)
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+Process Size
+14 nm
+Transistors
+5,700 million
+Die Size
+232 mm²
+
+
+Graphics Card
+Release Date
+Apr 18th, 2017
+Generation
+Polaris
+(RX 500)
+Predecessor
+Arctic Islands
+Successor
+Vega
+
+
+Clock Speeds
+Base Clock
+1168 MHz
+Boost Clock
+1244 MHz
+Memory Clock
+1750 MHz
+7 Gbps effective
+
+
+Memory
+Memory Size
+4 GB
+Memory Type
+GDDR5
+Memory Bus
+256 bit
+Bandwidth
+224.0 GB/s
+
+Theoretical Performance
+Pixel Rate
+39.81 GPixel/s
+Texture Rate
+159.2 GTexel/s
+FP16 (half) performance
+5.095 TFLOPS (1:1)
+FP32 (float) performance
+5.095 TFLOPS
+FP64 (double) performance
+318.5 GFLOPS (1:16)
+
+Board Design
+Slot Width
+Dual-slot
+Length
+241 mm
+9.5 inches
+TDP
+150 W
+Suggested PSU
+450 W
+Outputs
+1x DVI
+1x HDMI 2.0b
+3x DisplayPort 1.4a
+Power Connectors
+1x 6-pin
+Board Number
+C940,
+D000

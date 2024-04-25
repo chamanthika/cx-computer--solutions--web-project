@@ -1,0 +1,81 @@
+Graphics Processor
+GPU Name
+TU116
+GPU Variant
+TU116-400-A1
+Architecture
+Turing
+Foundry
+TSMC
+Process Size
+12 nm
+Transistors
+6,600 million
+Die Size
+284 mm²
+
+Clock Speeds
+Base Clock
+1500 MHz
+Boost Clock
+1770 MHz
+Memory Clock
+1500 MHz
+12 Gbps effective
+
+Graphics Card
+Release Date
+Feb 22nd, 2019
+Generation
+GeForce 16
+Predecessor
+GeForce 10
+Successor
+GeForce 20
+
+Memory
+Memory Size
+6 GB
+Memory Type
+GDDR6
+Memory Bus
+192 bit
+Bandwidth
+288.0 GB/s
+
+heoretical Performance
+Pixel Rate
+84.96 GPixel/s
+Texture Rate
+169.9 GTexel/s
+FP16 (half) performance
+10.87 TFLOPS (2:1)
+FP32 (float) performance
+5.437 TFLOPS
+FP64 (double) performance
+169.9 GFLOPS (1:32)
+
+Board Design
+Slot Width
+Dual-slot
+Length
+229 mm
+9 inches
+Width
+111 mm
+4.4 inches
+Height
+35 mm
+1.4 inches
+TDP
+120 W
+Suggested PSU
+300 W
+Outputs
+1x DVI
+1x HDMI 2.0
+1x DisplayPort 1.4a
+Power Connectors
+1x 8-pin
+Board Number
+PG160 SKU 21 PG161 SKU 21

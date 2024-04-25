@@ -1,0 +1,84 @@
+Graphics Processor
+GPU Name
+Ellesmere
+GPU Variant
+Polaris 10 XT
+(215-0876184)
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+Process Size
+14 nm
+Transistors
+5,700 million
+Die Size
+232 mm²
+
+Graphics Card
+Release Date
+Jun 29th, 2016
+Generation
+Arctic Islands
+(RX 400)
+Predecessor
+Pirate Islands
+Successor
+Polaris
+
+Clock Speeds
+Base Clock
+1120 MHz
+Boost Clock
+1266 MHz
+Memory Clock
+2000 MHz
+8 Gbps effective
+
+Memory
+Memory Size
+8 GB
+Memory Type
+GDDR5
+Memory Bus
+256 bit
+Bandwidth
+256.0 GB/s
+
+
+Theoretical Performance
+Pixel Rate
+40.51 GPixel/s
+Texture Rate
+182.3 GTexel/s
+FP16 (half) performance
+5.834 TFLOPS (1:1)
+FP32 (float) performance
+5.834 TFLOPS
+FP64 (double) performance
+364.6 GFLOPS (1:16)
+
+Board Design
+Slot Width
+Dual-slot
+Length
+240 mm
+9.4 inches
+Width
+95 mm
+3.7 inches
+Height
+35 mm
+1.4 inches
+TDP
+150 W
+Suggested PSU
+450 W
+Outputs
+1x HDMI 2.0b
+3x DisplayPort 1.4a
+Power Connectors
+1x 6-pin
+Board Number
+C940,
+D009-47

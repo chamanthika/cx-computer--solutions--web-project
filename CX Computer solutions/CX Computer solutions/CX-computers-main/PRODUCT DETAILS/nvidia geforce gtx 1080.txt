@@ -1,0 +1,91 @@
+Graphics Processor
+GPU Name
+GP104
+GPU Variant
+GP104-400-A1
+Architecture
+Pascal
+Foundry
+TSMC
+Process Size
+16 nm
+Transistors
+7,200 million
+Die Size
+314 mm²
+
+
+Graphics Card
+Release Date
+May 27th, 2016
+Generation
+GeForce 10
+Predecessor
+GeForce 900
+Successor
+GeForce 20
+Production
+End-of-life
+Launch Price
+599 USD
+Bus Interface
+PCIe 3.0 x16
+Reviews
+183 in our database
+
+Clock Speeds
+Base Clock
+1607 MHz
+Boost Clock
+1733 MHz
+Memory Clock
+1251 MHz
+10 Gbps effective
+
+
+Memory
+Memory Size
+8 GB
+Memory Type
+GDDR5X
+Memory Bus
+256 bit
+Bandwidth
+320.3 GB/s
+
+Theoretical Performance
+Pixel Rate
+110.9 GPixel/s
+Texture Rate
+277.3 GTexel/s
+FP16 (half) performance
+138.6 GFLOPS (1:64)
+FP32 (float) performance
+8.873 TFLOPS
+FP64 (double) performance
+277.3 GFLOPS (1:32)
+
+Board Design
+Slot Width
+Dual-slot
+Length
+267 mm
+10.5 inches
+Width
+112 mm
+4.4 inches
+Height
+40 mm
+1.6 inches
+TDP
+180 W
+Suggested PSU
+450 W
+Outputs
+1x DVI
+1x HDMI 2.0
+3x DisplayPort 1.4a
+Power Connectors
+1x 8-pin
+Board Number
+PG413 SKU 0

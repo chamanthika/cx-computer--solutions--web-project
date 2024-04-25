@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>CX Computer Solutions</title>
+   <link rel="stylesheet" href="Style.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<link rel="Stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+<link rel="Stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="header">	
+ <div class="container">
+  <div class="navbar">
+    <div class="logo">
+	  <img src="Images/logo.png" width="485px">
+	</div>
+	<nav>
+	   <ul>
+	      <li><a href="">Home</a></li>
+		  <li><a href="">Products</a></li>
+		  <li><a href="">About</a></li>
+		  <li><a href="">Contact</a></li>
+		  <li><a href="">Account</a></li>
+		</ul>
+	</nav>
+	<img src="Images/Cart.png" width="40px" height="30px">
+  </div>
+  <div class="row">
+    <div class="col-2">
+	   <h1>Build your dream PC here</h1>
+	   <p>Do you think that money cannot by happiness?.Nope!! Everything is depending on money...</p>
+	   <a href="" class="btn">Explore Now  &#8594;</a>
+	</div>
+	<div class="col-2">
+	   <img src="Images/Wallpaper.png">
+	
+	</div>
+  </div>
+  </div>
+  </div>
+  
+  <!------- featured categories------->
+  
+    <div class="categories">
+	 <div class="small-container">
+	  <div class="row">
+	     <div class="col-3">
+		    <img src="Images/Laptop.png">
+		</div>
+		<div class="col-3">
+		    <img src="Images/Pc.png">
+		</div>
+		<div class="col-3">
+		    <img src="Images/Used.png">
+		</div>
+	   </div>
+	  </div>
+	</div>
+	<!----featured products---->
+	  <div class="small-container">
+	    <h2 class="title">Featured Products</h2>
+		<div class="row">
+		   <div class="col-4">
+		      <img src="Images/Product-1.png">
+			  <h4>Gaming Headphones</h4>
+			  <div class="rating">
+			     <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star-half-o"></i>
+			  </div>
+			  <p>LKR.7,200.00</p>
+			</div>
+			<div class="col-4">
+		      <img src="Images/Product-2.png"><br>
+			  <h4><br><br>Gaming Keyboard & Mouse</h4>
+			  <div class="rating">
+			     <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star-half-o"></i>
+			  </div>
+			  <p>LKR.12,500</p>
+			</div>
+			<div class="col-4">
+		      <img src="Images/Product-3.png">
+			  <h4>Gaming Monitors</h4>
+			  <div class="rating">
+			     <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star"></i>
+				 <i class="fa fa-star-half-o"></i>
+			  </div>
+			  <p>LKR.68,000</p>
+			</div>
+		</div>
+        </div>
+		
+		<!------ offer ------>
+		
+		<div class="offer">
+		   <div class="small-container">
+		      <div class="row">
+			    <div class="col-2">
+				   <img src="Images/Vga.png" class="offer-img">
+				</div>
+				<div class="col-2">
+				  <p>Exclusively Available on CX computers</p>
+				  <h1>NVIDIA Geforce RTX 3080Ti</h1>
+				  <small>The NVIDIA Gefore RTX 30880Ti 8GB features a 40% larger more powerfull than RTX 2000 series.</small> 
+				  
+			    </div>
+			  </div>
+			</div>
+		  </div> 
+		  <!-------brands----->
+		    
+			<div class="brands">
+			   <div class="small-container">
+			     <div class="row">
+				   <div class="col-5">
+				      <img src= "Images/Asus.png" width="150px" height="150px">
+					</div>
+					<div class="col-5">
+				      <img src= "Images/Msi.png" width="150px" height="50px">
+					</div>
+					<div class="col-5">
+				      <img src= "Images/Dell.png" width="70px" height="70px">
+					</div>
+					<div class="col-5">
+				      <img src= "Images/Hp.png" width="100px" height="50px">
+					</div>
+					<div class="col-5">
+				      <img src= "Images/Acer.png" width="80px" height="20px">
+					</div>
+			     </div>
+			   </div>
+			</div>
+			
+	<!-----Footer--->
+	   <div class="footer">
+	       <div class="container">
+		      <div class="row">
+			    <div class="footer-col-1">
+				  <h3> Download our App</h3>
+				  <p>Download App for Android and ios mobile phone</p>
+				    <div class="app-logo">
+					    <img src="Images/Play store.png" >
+						<img src="Images/App store.png" >
+					 </div>
+				  </div>
+				 <div class="footer-col-2">
+				    <img src="Images/logo white.png" width="200px" height="50px">
+					<p>Download App for Android and ios mobile phone</p>
+				</div>
+				<div class="footer-col-3">
+				    <h3>Useful Links</h3>
+					<ul>
+					    <li>Coupons</li>
+						<li>Blog post</li>
+				        <li>Return policy</li>
+						<li>join affiliate</li>
+					</ul>
+				
+				
+				</div>
+				<div class="footer-col-4">
+				    <h3>Follow us</h3>
+					<ul>
+					    <li>Facebook</li>
+						<li>Twitter</li>
+				        <li>Instagram</li>
+						<li>You Tube</li>
+					</ul>
+				
+				
+				</div>
+			 </div>
+	      </div>
+	   </div>
+	   
+		       
+		
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</body>
+</html>  

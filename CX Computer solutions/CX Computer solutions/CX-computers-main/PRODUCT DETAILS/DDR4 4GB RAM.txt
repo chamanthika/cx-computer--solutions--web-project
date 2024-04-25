@@ -1,0 +1,18 @@
+ADATA 4GB DDR4 2666MHZ
+Memory (RAM)
+
+3 years Warranty
+
+Module Type U-DIMM
+Form Factor standard 1.23" height
+Memory Type DDR4
+Standard JEDEC
+Interface 288-pin
+Density 4GB
+Speed 2666MHz
+Power supply VDD and VDDQ = 1.2V±0.06V
+DRAM activation power supply VPP= 2.5V (+0.25V / -0.125V)
+DRAM spec/VCC DDR4 STD 1.2V
+Operating temperature 0°C to 85°C
+
+7,000 LKR

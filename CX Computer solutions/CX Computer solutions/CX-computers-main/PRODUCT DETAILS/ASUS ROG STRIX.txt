@@ -1,0 +1,189 @@
+ASUS ROG STRIX Z690-A GAMING WIFI D4ASUS ROG
+
+
+3 Years Warranty
+
+Intel® LGA 1700 socket: Ready for 12th Gen Intel Core™, Pentium® Gold and Celeron® Processors
+Optimal Power Solution: 16+1 DrMos with ProCool II power connector, high-quality alloy chokes and durable capacitors to support multi-core processors
+Optimized Thermal Design: Integrated I/O cover and VRM heatsinks with high conductivity thermal pad, four onboard M.2 heatsinks and M.2 backplate for the M.2_1 slot
+High-performance Networking: On-board Intel® WiFi 6 (802.11ax) and Intel® 2.5 Gb Ethernet with ASUS LANGuard
+Best Gaming Connectivity: Supports HDMI® 2.1 and DisplayPort™ 1.4 output, four M.2 slots, as well as USB 3.2 Gen 2x2 Type-C®
+Intelligent Control:  ASUS-exclusive AI Overclocking and Two-Way AI Noise Cancelation to simplify setup and improve performance
+DIY Friendly Design: PCIe®Slot Q-Release, M.2 Q-Latch, ROG Reusable Cable Organizer, pre-mounted I/O shield, BIOS FlashBack™ button, and Clr CMOS button
+Unmatched Personalization: ASUS-exclusive Aura Sync RGB lighting, including an RGB header and three addressable Gen 2 headers
+Industry-leading Gaming Audio: High fidelity audio with ALC4080 with Savitech SV3H712 amplifier, along with DTS® Sound Unbound and Sonic Studio III
+Renowned Software: Bundled AIDA64 Extreme 60 days free trial version and intuitive UEFI BIOS dashboard with integrated MemTest86
+
+CPU
+Intel® Socket LGA1700 for 12th Gen Intel® Core™, Pentium® Gold and Celeron® Processors
+Supports Intel® Turbo Boost Technology 2.0 and Intel® Turbo Boost Max Technology 3.0**
+
+
+* Refer to www.asus.com for CPU support list.
+
+
+** Intel® Turbo Boost Max Technology 3.0 support depends on the CPU types.
+
+Chipset
+Z690
+Memory
+4 x DIMM, Max. 128GB, DDR4 5333(OC)/5000(OC)/4800(OC)/4700(OC)/4600(OC)/4500(OC)/4400(OC)/4266(OC)/4133(OC)/4000(OC)/3866(OC)/3733(OC)/3600(OC)/3466(OC)/3400(OC)/3333(OC)/3300(OC)/3200/3000/2933/2800/2666/2400/2133 Non-ECC, Un-buffered Memory*
+
+
+Dual Channel Memory Architecture
+
+
+Supports Intel® Extreme Memory Profile (XMP)
+
+
+OptiMem III
+
+
+*Actual Memory frequency support depends on the CPU types and DRAM modules, for more information refer to www.asus.com for the Memory QVL (Qualified Vendors Lists).
+
+Graphics
+1 x DisplayPort**
+
+
+1 x HDMI® port***
+
+
+*Graphics specifications may vary between CPU types. Please refer to www.intel.com for any updates.
+
+
+** Support 8K@60Hz as specified in DisplayPort 1.4.
+
+
+***Support 4K@60Hz as specified in HDMI® 2.1.
+
+
+**** VGA resolution support depends on processors' or graphic cards' resolution.
+
+Expansion Slots
+Intel® 12th Gen Processors
+
+
+1 x PCIe 5.0/4.0/3.0 x16 slot*
+
+
+Intel® Z690 Chipset**
+
+
+1 x PCIe 3.0 x16 slot (supports x4 mode)*
+
+
+1 x PCIe 3.0 x1 slot
+
+
+* Please check PCIe bifurcation table in User Guide Chapter 1 // support site.
+
+
+** Supports Intel® Optane Memory H Series on PCH-attached PCIe slot
+
+Storage
+Intel® 12th Gen Processors
+M.2_1 slot (Key M), type 2242/2260/2280/22110
+- Intel® 12th Gen processors support PCIe 4.0 x4 mode.
+Intel® Z690 Chipset
+M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)
+M.2_3 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)
+M.2_4 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 & SATA modes)**
+6 x SATA 6Gb/s ports***
+* Intel® Rapid Storage Technology supports NVMe RAID 0/1/5, SATA RAID 0/1/5/10.
+** When M.2_4 is operating in SATA mode, SATA6G_2 will be disabled.
+*** RAID configuration and optical disc drives are not supported on the SATA6G_E1-2 ports.
+Ethernet
+1 x Intel® 2.5Gb Ethernet
+ASUS LANGuard
+Wireless & Bluetooth
+Intel® Wi-Fi 6
+2x2 Wi-Fi 6 (802.11 a/b/g/n/ac/ax)
+
+
+Supports 2.4/5GHz frequency band
+
+
+Bluetooth v5.2
+
+USB
+Rear USB:
+Total 10 ports
+1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
+3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C®)
+4 x USB 3.2 Gen 1 ports (4 x Type-A)
+2 x USB 2.0 ports (2 x Type-A)
+Front USB:
+Total 7 ports
+1 x USB 3.2 Gen 2x2 connector (supports USB Type-C®)
+1 x USB 3.2 Gen 1 header support(s) additional 2 USB 3.2 Gen 1 ports
+2 x USB 2.0 headers support additional 4 USB 2.0 ports
+Audio
+ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080
+
+
+- Impedance sense for front and rear headphone outputs
+
+
+- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking
+
+
+- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input
+
+
+- Supports up to 32-Bit/384 kHz playback
+
+
+Audio Features
+
+
+- SupremeFX Shielding Technology
+
+
+- Savitech SV3H712 AMP
+
+
+- Premium audio capacitors
+
+
+- Audio cover
+
+
+* Due to limitations in HDA bandwidth, 32-Bit/192 kHz is not supported for 7.1 Surround Sound audio.
+
+
+** A chassis with an HD audio module in the front panel is required to support 7.1 Surround Sound audio output.
+
+Back Panel I/O Ports
+1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
+
+
+3 x USB 3.2 Gen 2 ports (2 x Type-A, 1 x USB Type-C®)
+
+
+4 x USB 3.2 Gen 1 ports (4 x Type-A)
+
+
+2 x USB 2.0 ports (2 x Type-A)
+
+
+1 x DisplayPort
+
+
+1 x HDMI® port
+
+
+1 x Wi-Fi Module
+
+
+1 x Intel® 2.5Gb Ethernet port
+
+
+5 x Audio jacks
+
+
+1 x BIOS FlashBack™ button
+
+
+1 x Clear CMOS button 
+
+175,000 LKR

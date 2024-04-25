@@ -1,0 +1,74 @@
+General
+Manufacturer
+Nvidia
+GPU Architecture
+Nvidia Turing 12nm
+Cores
+896 CUDA CORES
+Base Clock
+1485 MHz
+Boost Clock
+1665 MHz
+Transistor Amount
+4.7 Billion
+Texture Units
+56
+ROPs
+32
+Memory
+Memory Size
+4GB GDDR5
+Memory Clock Effective
+8000 MHz
+Memory Interface Width
+128-bit
+Memory Bandwidth
+128 GB/s
+Technologies
+DirectX® Version
+12
+G-Sync/FreeSync 
+OpenCL
+1.2
+OpenGL
+4.6
+Shader Model
+6.5
+Extra Technologies
+NVIDIA GeForce Experience, NVIDIA Ansel, NVIDIA Highlights, Game Ready Drivers, HDCP 2.2, NVIDIA GPU Boost, NVIDIA Encoder (NVENC) (Volta)
+Connectivity
+Maximum resolution
+Up to 7680x4320@120Hz
+Display Port
+No
+HDMI
+2.0b x 1
+USB-C
+No
+Dual Link DVI
+DVI-D
+Single Link DVI
+No
+VGA
+No
+Requirements
+Interface
+PCI-E 3.0 x16
+Power Connectors
+None
+PSU Recommendation
+300 W
+Graphics Card Power
+75 W
+Dimensions
+Length
+13.0 cm (5.1")
+Width
+2 SLOT
+Height
+11.1 cm (4.37")
+Extra Information
+Price (at release)
+$149 USD
+Weight
+0.7 kg

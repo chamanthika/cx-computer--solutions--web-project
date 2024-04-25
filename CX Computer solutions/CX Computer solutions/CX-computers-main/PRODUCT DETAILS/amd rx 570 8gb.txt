@@ -1,0 +1,48 @@
+Purchase This Card
+Amazon UK - View Offers Below
+Amazon US - View Offers Below
+
+General
+Manufacturer - AMD
+GPU Architecture - Polaris 20 14nm
+Cores - 2048 Stream Processors
+Base Clock - 1168 MHz
+Boost Clock - 1244 MHz
+Transistor Amount - 5.7 Billion
+Texture Units - 128
+ROPs - 32
+
+Memory
+Memory Size - 8GB
+Memory Clock Effective - 7000 MHz
+Memory Interface Width - 256-bit
+Memory Bandwidth - 224 GB/s
+
+Technologies
+DirectX® Version - 12
+OpenCL - 2.0
+OpenGL - 4.5
+Shader Model - 6.4
+
+Extra Technologies
+The Vulkan API, Video Code Engine (VCE), TrueAudio Next, 3rd Gen 14nm Process Technology, AMD App Acceleration, AMD Radeon Chill, Virtual Super Resolution, Unified Video Decoder (UVD), AMD PowerTune Technology, AMD Frame Rate Target Control, AMD Eyefinity Technology (Gaming), AMD Radeon ReLive, AMD Radeon Software, 4th Gen GCN Architecture.
+
+Connectivity
+Maximum resolution - 3840 x 2160 @ 120 Hz
+Display Port - 1.4 HDR
+HDMI - 4K60 Support
+USB-C - No
+Dual Link DVI - No
+Single Link DVI - No
+VGA - No
+
+Requirements
+Interface - PCI-E 3.0 x16
+Power Connectors - 1 x 6-pin
+PSU Recommendation  - 450 W
+Graphics Card Power - 150 W
+
+Dimensions
+Length - 24.13 cm (9.5”)
+Width - 2 Slot
+Height - 11.1 cm (4.37")

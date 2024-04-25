@@ -1,0 +1,17 @@
+Asus expert book
+
+Device name : 	LAPTOP-35P9V6TG
+Processor :   	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40Hz
+              	2.42 GHz
+Installed RAM : 8.00 GB (7.70 GB usable)
+Device ID :	60780B81-C399-4C9C-867C-02480EEF2653
+Product ID :	00327-36344-46317-AAOEM
+System type :	64-bit operating system, x64-based processor
+Pen and touch :	No pen or touch input is available for this display
+
+Edition : 	Windows 10 Home Single Language
+Version :	21H2
+Installed on	3/24/2022
+OS build 	19044.1826
+Experience	Windows Feature Experience Pack 120.2212.4180.0
+ 

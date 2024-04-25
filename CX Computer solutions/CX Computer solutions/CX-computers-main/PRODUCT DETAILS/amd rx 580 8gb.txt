@@ -1,0 +1,90 @@
+Graphics Processor
+GPU Name
+Polaris 20
+GPU Variant
+Polaris 20 XTX
+(215-0910038)
+Architecture
+GCN 4.0
+Foundry
+GlobalFoundries
+Process Size
+14 nm
+Transistors
+5,700 million
+Die Size
+232 mm²
+
+Graphics Card
+Release Date
+Apr 18th, 2017
+Generation
+Polaris
+(RX 500)
+Predecessor
+Arctic Islands
+Successor
+Vega
+
+Clock Speeds
+Base Clock
+1257 MHz
+Boost Clock
+1340 MHz
+Memory Clock
+2000 MHz
+8 Gbps effective
+
+Memory
+Memory Size
+8 GB
+Memory Type
+GDDR5
+Memory Bus
+256 bit
+Bandwidth
+256.0 GB/s
+Render Config
+Shading Units
+2304
+TMUs
+144
+ROPs
+32
+Compute Units
+36
+L1 Cache
+16 KB (per CU)
+L2 Cache
+2 MB
+
+Theoretical Performance
+Pixel Rate
+42.88 GPixel/s
+Texture Rate
+193.0 GTexel/s
+FP16 (half) performance
+6.175 TFLOPS (1:1)
+FP32 (float) performance
+6.175 TFLOPS
+FP64 (double) performance
+385.9 GFLOPS (1:16)
+
+Board Design
+Slot Width
+Dual-slot
+Length
+241 mm
+9.5 inches
+TDP
+185 W
+Suggested PSU
+450 W
+Outputs
+1x HDMI 2.0b
+3x DisplayPort 1.4a
+Power Connectors
+1x 8-pin
+Board Number
+C940,
+D009-04

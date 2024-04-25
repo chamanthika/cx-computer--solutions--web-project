@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+	<meta name="viewport" content="width-device-with, initial-scale=1.0">
+   <title>CX Computer Solutions - Account</title>
+   <link rel="stylesheet" href="Admin.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<link rel="Stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+<link rel="Stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+	<body>
+<br>
+<br>
+		<div class="header">	
+ <div class="container">
+  <div class="navbar">
+    <div class="logo">
+	  <a href="Html code.html"><img src="Images/logo.png" width="585px"></a>
+	</div>
+     <section class="container">
+    <div class="cont">
+        <form name="signin" method="post" action="http://localhost/signin.php">
+        <div class="form sign-in">
+            <h2>Welcome</h2>
+            <label>
+                <span>Email</span>
+                <input type="email" name="ue" required>
+            </label>
+            <label>
+                <span>Password</span>
+                <input type="password" required>
+            </label>
+            <p class="forgot-pass">Forgot password?</p>
+            <button type="submit" class="submit" value="submit">Sign In</a></button>
+         
+        </div>
+        </form>
+        <div class="sub-cont">
+            <div class="img">
+                <div class="img__text m--up">
+                 
+                    <h3>Don't have an account? Please Sign up!<h3>
+                </div>
+                <div class="img__text m--in">
+                
+                    <h3>If you already has an account, just sign in.<h3>
+                </div>
+                <div class="img__btn">
+                    <span class="m--up">Sign Up</span>
+                    <span class="m--in">Sign In</span>
+                </div>
+            </div>
+                    
+                    
+            <div class="form sign-up">
+                <form name="signup" method="post" action="http://localhost/signup.php"> 
+                <h2>Create your Account</h2>
+                <label>
+                    <span>Name</span>
+                    <input type="text" name="un" required>
+                </label>
+                <label>
+                    <span>Email</span>
+                    <input type="email" name="ue" required>
+                </label>
+                <label>
+                    <span>Password</span>
+                    <input type="password" name="pw" required>
+                </label>
+                <label>
+                    <span>Confirm Your Password</span>
+                    <input type="password" required>
+                </label>
+					<button type="submit" class="submit" value="submit">Create your account</button>
+                   
+            </div>
+        </div>
+    </div>
+                    </section>
+
+    <script>
+        document.querySelector('.img__btn').addEventListener('click', function() {
+            document.querySelector('.cont').classList.toggle('s--signup');
+        });
+    </script>
+</body>
+</html>

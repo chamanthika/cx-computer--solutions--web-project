@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+	<meta name="viewport" content="width-device-with, initial-scale=1.0">
+   <title>About Us</title>
+   <link rel="stylesheet" href="About.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<link rel="Stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+<link rel="Stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	
+	<div id="navbar">
+ <a href="Html code.html">Home</a>
+  <a href="NEW PC.html">Products</a>
+  <a href="index.html">Contact</a>
+  <a href="login.html">Account</a>
+  <a href="About.html">About Us</a>
+  <a href="Html code.html">Offers</a>
+</div>
+	
+	<div class="parallax">
+<div class="header">	
+ <div class="container">
+  <div class="navbar">
+    <div class="logo">
+	  <img src="Images/logo.png" width="585px">
+	</div>
+	  
+	<nav>
+	   <ul id = "MenuItems">
+	      <li><a href="Html code.html">Home</a></li>
+		  <li><a href="NEW PC.html">Products</a></li>
+		  <li><a href="About.html">About</a></li>
+		  <li><a href="index.html">Contact</a></li>
+		  <li><a href="login.html">Account</a></li>
+		</ul>
+	</nav>
+      <a href="C"><img src="Images/Cart.png"  width="50px" ></a>
+     </div>
+	 <div class="main" id="head">
+  <div class="row">
+    <div class="col-2">
+	   
+	</div>
+	   
+	 
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Established in 2019, CX Computer Solutions has strived to be one of the leading retailers for branded &amp; customizable computers and related products in today's market. Our years of experience provide you, our valued customers, with expertise in cutting-edge technology and excellent service that culminates in providing you with the best products available. CX Computer Solutions has always been a standout for many PC enthusiasts in their passion for high-end gaming and coustem build PCs. Thus, enabling the dream of making one's own computer that would fit all of one's needs come true.<br><br>
+
+&nbsp; &nbsp; &nbsp; &nbsp;We believe in your passion, as fellow PC enthusiasts, we would be more than glad to provide you with any assistance when you're looking for branded computer solutions.We specialize in making available the latest technology as soon as it is released worldwide.Whether you're building your own gaming PC or looking to upgrade your existing PC to your liking, CX Computer Solutions can provide the ideal solution that meets your expectations. The premium hardware we offer is of outstanding quality and the brands we choose will speak for themselves.<br><br>
+
+&nbsp; &nbsp; &nbsp;We give you not only the ability to be exposed to such high-end hardware, but also ensure that we offer them at reasonable prices. It is our thought that every individual who has the passion for high-end computers deserves to experience great high-end hardware. With the latest computer products brought from the top-grade brands all over the world, we promise you on delivering the best available options for your dream gaming rig.<br><br>
+
+&nbsp; &nbsp; We have understood what it means to be trusted by thousands of customers, and we intend on keeping that trust by continuing to provide you with the best products for affordable prices. We make it our responsibility to attend to your requirements of structuring the ideal PC for you. The personalized experience that you can have at CX as a customer is unparalleled. The business owner is also actively involved in providing advice to choose and customize your ideal computer. Our fervent hope would be to let you have the best product for the budget at your hand, and we know that our direct involvement in letting you have a wider understanding on the products would contribute to this greatly.<br><br>
+
+</p>
+	 
+	
+	
+	</div>
+  </div>
+  </div>
+  </div>
+  
+  
+		
+   
+	
+		
+		
+		  
+			
+	
+	<!-----Footer--->
+	  <footer class="footer-distributed">
+
+			<div class="footer-left">
+
+				<img src="Images/logo white.png" width="350px">
+
+				<p class="footer-links">
+					<a href="#" class="link-1">Home</a>
+					
+				
+					<a href="#section02">Products</a>
+				
+					<a href="#">About</a>
+					
+					
+					
+					<a href="index.html">Contact</a>
+				</p>
+
+				<p class="footer-company-name">CX Computer solutions © 2020</p>
+		</div>
+
+			<div class="footer-center">
+
+				<div>
+					<i class="fa fa-map-marker"></i>
+					<p><span>Peradeniya Road,Kandy,Sri Lanka.</p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>+94 71 888 7625 </p>
+				</div>
+
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:chanakabandara756@gmail.com">chanakabandara756@gmail.com</a></p>
+				</div>
+
+			</div>
+
+			<div class="footer-right">
+
+				<p class="footer-company-about"> <span>About the company</span> </p>
+				<p class="footer-company-about">We are CX Cmputer Solution who is supporting to archive your desktop or laptop dream.&nbsp;</p>
+<div class="footer-icons">
+
+		<a href="#"><i class="fa fa-facebook"></i></a>
+		<a href="#"><i class="fa fa-twitter"></i></a>
+		<a href="#"><i class="fa fa-linkedin"></i></a>
+		<a href="#"><i class="fa fa-github"></i></a>
+
+	  </div>
+
+		</div>
+
+</footer>
+		
+<!---------js for toggle menu--------->
+        <script>
+		   var MenuItems = document.getElementById("MenuItems");
+			MenuItems.style.maxHeight = "0px";
+			
+			function menutoggle(){
+				if(MenuItems.style.maxHeight == "0px")
+					{
+						MenuItems.style.maxHeight = "200px";
+						
+					}
+				else
+					{
+						MenuItems.style.maxHeight = "0px";
+					}
+			}
+			 window.addEventListener('scroll',reveal);
+        
+        function reveal(){
+            
+            var reveals = document.querySelectorAll('.reveal');
+            
+            for(var i=0; i< reveals.length;i++){
+                var windowheight=window.innerHeight;
+                var revealtop=reveals[i].getBoundingClientRect().top;
+                var revealpoint=150;
+                
+                if(revealtop <windowheight - revealpoint){
+                    reveals[i].classList.add('active');
+                }
+                else{
+                    reveals[i].classList.remove('active');
+                }
+            }
+        }
+			/*----Scrolling Navbar---*/
+			window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+}
+			
+			</script>
+			
+			
+	   
+		       
+		
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</body>
+</html>  
